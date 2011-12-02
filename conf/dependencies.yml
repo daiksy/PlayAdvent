@@ -1,0 +1,6 @@
+# Application dependencies
+
+require:
+    - play
+    - play -> gae 1.4
+    - play -> pdf 0.7
